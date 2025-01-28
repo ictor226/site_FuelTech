@@ -90,12 +90,13 @@
 .col-3 { 
     margin-left: 90px;
 }
-.fo-co{
+.info{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     width: 12299px;
-<<<<<<< HEAD
 }
-=======
+.button01{
+    height: 40px;
+    width: 150px;
+    background: rgb(190, 184, 184);
 }
->>>>>>> 9dd2d4d35f6a0e2f73b37ae43e937d5b3f20d177
